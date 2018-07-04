@@ -2,7 +2,7 @@ public with sharing class SecondDemo {
     /**
      * An empty constructor for the testing
      */
-    public DemoController() {}
+    public SecondDemo() {}
 
     /**
      * Get the version of the SFDX demo app
