@@ -1,0 +1,212 @@
+[
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1530742905000,
+            "changeTime": 1530742905926,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530742905000,
+            "changeTime": 1530742905928,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1530742905000,
+            "changeTime": 1530742905930,
+            "contentHash": "507beeb379a62673b68078df029dc79ea1b2ee04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1530742905000,
+            "changeTime": 1530742905931,
+            "contentHash": "68edd76c2aac1eadaf831895e235b98e46639827",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes/DemoController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes/DemoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 263,
+            "modifiedTime": 1530724099198,
+            "changeTime": 1530724099553,
+            "contentHash": "ac8118d46bf5d59030dc360a6122ccb50ee31d98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes/DemoController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes/DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1527243838000,
+            "changeTime": 1530669367753,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes/secondDemo.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes/secondDemo.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1530742900246,
+            "changeTime": 1530742900246,
+            "contentHash": "6904d1df2d75b46ce7356bf45c616b630d9e1366",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes/secondDemo.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/main/default/classes/secondDemo.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1530742900246,
+            "changeTime": 1530742900246,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/test",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530724072000,
+            "changeTime": 1530724072000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/test/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/test/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530724072000,
+            "changeTime": 1530724072002,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/test/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/test/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1530724072000,
+            "changeTime": 1530724072003,
+            "contentHash": "1700502fdcb73fc2aeadcfeede9b9ef238b56dd2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/test/default/classes/DemoControllerTests.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/test/default/classes/DemoControllerTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 211,
+            "modifiedTime": 1527243838000,
+            "changeTime": 1530669367743,
+            "contentHash": "c1c4d73a144659c186e226373922d6c6822cb3c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER/force-app/test/default/classes/DemoControllerTests.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER/force-app/test/default/classes/DemoControllerTests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1527243838000,
+            "changeTime": 1530669367746,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/SFCALLCENTER",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/SFCALLCENTER",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 512,
+            "modifiedTime": 1530744189000,
+            "changeTime": 1530744189376,
+            "contentHash": "be3e678be6e8c47cf4fc803b38983247a1f4520f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
