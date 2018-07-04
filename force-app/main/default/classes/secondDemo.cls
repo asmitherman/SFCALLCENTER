@@ -1,8 +1,8 @@
-public with sharing class SecondDemo {
+public with sharing class secondDemo {
     /**
      * An empty constructor for the testing
      */
-    public SecondDemo() {}
+    public secondDemo() {}
 
     /**
      * Get the version of the SFDX demo app
