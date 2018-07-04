@@ -1,4 +1,4 @@
-public with sharing class asecondDemoController {
+public with sharing class AsecondDemoController {
     /**
      * An empty constructor for the testing
      */
