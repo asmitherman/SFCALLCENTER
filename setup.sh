@@ -37,7 +37,7 @@ PROD_USERNAME="ProdOrg"
 GITHUB_REPO="asmitherman/SFCALLCENTER"
 
 # Your package name
-PACKAGE_NAME="CallCenterPackage"
+PACKAGE_NAME="CallCenterP"
 
 ### Setup script
 
