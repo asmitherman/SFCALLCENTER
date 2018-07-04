@@ -4,6 +4,12 @@ public with sharing class secondDemo {
      */
     public secondDemo() {}
 
+<<<<<<< HEAD
+=======
+    /**
+     * Get the version of the SFDX demo app
+     */
+>>>>>>> master
     public String getAppVersion() {
         return '1.0.0';
     }
