@@ -1,4 +1,5 @@
 {
+  
   "name": "call-center-pipeline",
   "version": "0.0.1",
   "description": "Test application for the salesforce-dx-buildpack",
